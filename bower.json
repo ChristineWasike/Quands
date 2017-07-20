@@ -1,0 +1,17 @@
+{
+  "name": "qanda",
+  "description": "Small description for qanda goes here",
+  "main": "",
+  "authors": [
+    "Christine Wasike <christinewasike22@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ChristineWasike/Quands",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
