@@ -1,10 +1,10 @@
 /* eslint-env node */
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
 
-module.exports = function(defaults) {
+module.exports = function (defaults) {
   var app = new EmberApp(defaults, {
     // Add options here
-    'ember-cli-bootswatch': 'superhero',
+    'ember-cli-boostwatch': 'spacelab'
   });
 
   // Use `app.import` to add additional libraries to the generated
